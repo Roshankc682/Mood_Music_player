@@ -51,11 +51,11 @@ MarkupSafe==2.0.1
 matplotlib==3.5.1
 mediapipe==0.8.9.1
 mtcnn==0.1.1
-nltk==3.6.7
+nltk==3.8.1
 numpy==1.22.1
 oauthlib==3.2.0
-opencv-contrib-python==4.5.5.62
-opencv-python==4.5.5.62
+opencv-contrib-python==4.8.1.78.62
+opencv-python==4.8.1.78.62
 opt-einsum==3.3.0
 packaging==21.3
 pandas==1.4.0
