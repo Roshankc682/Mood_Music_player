@@ -96,7 +96,7 @@ tqdm==4.62.3
 typing-extensions==3.10.0.2
 tzdata==2021.5
 uritemplate==4.1.1
-urllib3==1.26.8
+urllib3==1.26.17
 Werkzeug==2.0.2
 whitenoise==6.0.0
 wrapt==1.13.3
