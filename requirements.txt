@@ -12,7 +12,7 @@ click==8.0.3
 colorama==0.4.4
 coreapi==2.3.3
 coreschema==0.0.4
-cryptography==36.0.1
+cryptography==41.0.5
 cycler==0.11.0
 deepface==0.0.72
 defusedxml==0.7.1
@@ -97,6 +97,6 @@ typing-extensions==3.10.0.2
 tzdata==2021.5
 uritemplate==4.1.1
 urllib3==1.26.8
-Werkzeug==2.0.2
+Werkzeug==3.0.1
 whitenoise==6.0.0
 wrapt==1.13.3
