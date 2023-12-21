@@ -27,7 +27,7 @@ dnspython==2.1.0
 filelock==3.4.2
 Flask==2.0.2
 flatbuffers==2.0
-fonttools==4.29.0
+fonttools==4.43.0
 gast==0.5.3
 gdown==4.2.0
 google-auth==2.5.0
