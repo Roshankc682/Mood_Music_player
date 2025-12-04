@@ -16,7 +16,7 @@ cryptography==36.0.1
 cycler==0.11.0
 deepface==0.0.72
 defusedxml==0.7.1
-Django==4.0.1
+Django==4.2.27
 django-cors-headers==3.11.0
 django-filter==21.1
 django-templated-mail==1.1.1
@@ -82,7 +82,7 @@ six==1.16.0
 social-auth-app-django==5.0.0
 social-auth-core==4.2.0
 soupsieve==2.3.1
-sqlparse==0.4.2
+sqlparse==0.5.4
 tensorboard==2.8.0
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.1
@@ -97,6 +97,6 @@ typing-extensions==3.10.0.2
 tzdata==2021.5
 uritemplate==4.1.1
 urllib3==1.26.8
-Werkzeug==2.0.2
+Werkzeug==3.1.4
 whitenoise==6.0.0
 wrapt==1.13.3
