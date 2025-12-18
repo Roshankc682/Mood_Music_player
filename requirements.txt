@@ -24,7 +24,7 @@ djangorestframework==3.13.1
 djangorestframework-simplejwt==4.8.0
 djoser==2.1.0
 dnspython==2.1.0
-filelock==3.4.2
+filelock==3.20.1
 Flask==2.0.2
 flatbuffers==2.0
 fonttools==4.29.0
