@@ -31,7 +31,7 @@
     "react-minimal-pie-chart": "^8.2.0",
     "react-multi-select-component": "^4.2.2",
     "react-redux": "^7.2.6",
-    "react-router-dom": "^6.2.1",
+    "react-router-dom": "^6.30.2",
     "react-scripts": "^3.0.1",
     "react-select": "^5.2.2",
     "react-shimmer": "^3.2.0",
